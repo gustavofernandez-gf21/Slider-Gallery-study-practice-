@@ -61,21 +61,20 @@ h3{
     right: 20px;
 }
 
-p{
-    display: table;
-    margin: 45% auto 0px auto;
-    padding: 5px;
-    background-color: rgba(0,0,0,0.5);
-    color: white;
-
-}
-
 .slide-image{
     width: 50vw;
     height: 50vh;
     background-position: center;
     background-size: cover;
     display: inline-block;
+}
+
+p{
+display: table;
+  margin: auto;
+  padding: 5px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
 }
 
 @media (max-device-width: 1024px){
